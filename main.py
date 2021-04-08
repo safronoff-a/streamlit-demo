@@ -11,7 +11,6 @@ st.markdown("""
 Hey, you are cool
 """)
 
-
 df[df['x'] <= x_max]
 
 st.markdown("""
